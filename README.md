@@ -21,7 +21,8 @@
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,git" />  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GuZhengSVT&theme=windows-dark&date_format=%5BY.%5Dn.j&mode=weekly) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuZhengSVT&show_icons=true&include_all_commits=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=GuZhengSVT&theme=windows-dark&date_format=%5BY.%5Dn.j&mode=weekly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuZhengSVT&show_icons=true&include_all_commits=true&theme=github_dark)
 
 ![GuZhengSVT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuZhengSVT&theme=github)
 
