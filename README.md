@@ -1,6 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=4000&pause=2000&width=1000&height=40&center=true&vCenter=true&lines=Life+is+too+long+to+end+at+a+grave.;%E5%A2%93%E5%BF%97%E9%93%AD%E5%A4%AA%E7%9F%AD%EF%BC%8C%E4%B8%80%E7%94%9F%E5%A4%AA%E9%95%BF%E3%80%82)
+>***Life is too long to end at a grave.***  
+>**墓志铭太短，一生太长。**
 
-  <!-- profile logo 个人资料徽标 -->
+<!-- profile logo 个人资料徽标 -->
 <div>
   <a href="https://twitter.com/GuZhengSVT/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@GuZhengSVT"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
